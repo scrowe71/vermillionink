@@ -1,4 +1,4 @@
-# Vermillion Ink demo — v0.2.3
+# Vermillion Ink demo — v0.2.4
 
 Ready-to-deploy static website for a GitHub demo repository.
 
@@ -23,7 +23,7 @@ All navigation uses relative .html URLs, so the site also works under a GitHub P
 - artists.html — artist directory
 - ashton.html — Ashton biography and 12-photo portfolio
 - resident.html — clearly marked resident artist placeholder
-- services.html — illustrative service descriptions
+- services.html — tattoo and piercing menu with prices, deposits and booking links
 - contact.html — address, map, phone, hours and booking
 - manage.html — browser-local photo manager
 
