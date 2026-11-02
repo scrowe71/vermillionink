@@ -1,4 +1,4 @@
-# Vermillion Ink demo — v0.2.2
+# Vermillion Ink demo — v0.2.3
 
 Ready-to-deploy static website for a GitHub demo repository.
 

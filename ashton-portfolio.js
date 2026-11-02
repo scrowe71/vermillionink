@@ -1,7 +1,7 @@
 const ashtonPortfolio = [
   {
     "id": "ashton-work-1",
-    "url": "assets/ashton-portfolio-01.png",
+    "url": "assets/ashton-portfolio-01.webp",
     "title": "Pocket watches & flowers",
     "category": "Black & gray",
     "artist": "ashton",
@@ -11,7 +11,7 @@ const ashtonPortfolio = [
   },
   {
     "id": "ashton-work-2",
-    "url": "assets/ashton-portfolio-02.png",
+    "url": "assets/ashton-portfolio-02.webp",
     "title": "Roaring wolf",
     "category": "Black & gray",
     "artist": "ashton",
@@ -31,7 +31,7 @@ const ashtonPortfolio = [
   },
   {
     "id": "ashton-work-4",
-    "url": "assets/ashton-portfolio-04.png",
+    "url": "assets/ashton-portfolio-04.webp",
     "title": "Glowing lantern",
     "category": "Color",
     "artist": "ashton",
@@ -41,7 +41,7 @@ const ashtonPortfolio = [
   },
   {
     "id": "ashton-work-5",
-    "url": "assets/ashton-portfolio-05.png",
+    "url": "assets/ashton-portfolio-05.webp",
     "title": "Frog on a stool",
     "category": "Color",
     "artist": "ashton",
@@ -51,7 +51,7 @@ const ashtonPortfolio = [
   },
   {
     "id": "ashton-work-6",
-    "url": "assets/ashton-portfolio-06.png",
+    "url": "assets/ashton-portfolio-06.webp",
     "title": "Raccoon, skull & watches collection",
     "category": "Mixed collection",
     "artist": "ashton",
@@ -61,7 +61,7 @@ const ashtonPortfolio = [
   },
   {
     "id": "ashton-work-7",
-    "url": "assets/ashton-portfolio-07.png",
+    "url": "assets/ashton-portfolio-07.webp",
     "title": "Owl & woodland",
     "category": "Color",
     "artist": "ashton",
@@ -71,7 +71,7 @@ const ashtonPortfolio = [
   },
   {
     "id": "ashton-work-8",
-    "url": "assets/ashton-portfolio-08.png",
+    "url": "assets/ashton-portfolio-08.webp",
     "title": "Plague doctor",
     "category": "Black & gray",
     "artist": "ashton",
@@ -81,7 +81,7 @@ const ashtonPortfolio = [
   },
   {
     "id": "ashton-work-9",
-    "url": "assets/ashton-portfolio-09.png",
+    "url": "assets/ashton-portfolio-09.webp",
     "title": "Sailing ship & lighthouse",
     "category": "Black & gray",
     "artist": "ashton",
@@ -101,7 +101,7 @@ const ashtonPortfolio = [
   },
   {
     "id": "ashton-work-11",
-    "url": "assets/ashton-portfolio-11.png",
+    "url": "assets/ashton-portfolio-11.webp",
     "title": "Portrait, snake & flowers",
     "category": "Color",
     "artist": "ashton",
@@ -111,7 +111,7 @@ const ashtonPortfolio = [
   },
   {
     "id": "ashton-work-12",
-    "url": "assets/ashton-portfolio-12.png",
+    "url": "assets/ashton-portfolio-12.webp",
     "title": "Books, skulls & flowers",
     "category": "Black & gray",
     "artist": "ashton",
