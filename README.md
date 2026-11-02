@@ -44,3 +44,4 @@ Google Fonts is the only external design dependency; local fallback fonts are de
 ## Included files
 
 All HTML pages, CSS, browser JavaScript, images, version metadata, the optional version-update helper and this README. The ZIP excludes Git history, .openai hosting configuration, credentials, source-reference photos that are not used by the site, and deployment archives.
+
